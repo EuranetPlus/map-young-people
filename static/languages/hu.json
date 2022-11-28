@@ -6,7 +6,7 @@
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "jegyzet",
-  "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely az országok és régiók közötti összehasonlítást lehetővé tevő, Európa-szerte magas színvonalú statisztikák és mutatók közzétételéért felelős.",
+  "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely magas színvonalú európai szintű statisztikák és mutatók közzétételéért felelős, amelyek lehetővé teszik az országok és régiók összehasonlítását.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "További információért kattintson"
