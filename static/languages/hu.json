@@ -1,6 +1,6 @@
 {
-  "heading": "Fiatalok az Európai Unióban",
-  "subheading": "Az EU-országok 15 és 24 év közötti lakosságának általános százaléka.",
+  "heading": "Fiatalok az Európai Unióban 2022-ben",
+  "subheading": "Az EU-országok 15 és 24 év közötti lakosságának általános százaléka. EU-27 átlaga: 10,5%",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "a lakosság",
   "textSourceDescription": "Forrás",
@@ -9,5 +9,5 @@
   "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely magas színvonalú európai szintű statisztikák és mutatók közzétételéért felelős, amelyek lehetővé teszik az országok és régiók összehasonlítását.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson további információkért"
 }
