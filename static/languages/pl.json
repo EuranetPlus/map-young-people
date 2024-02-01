@@ -1,12 +1,12 @@
 {
-  "heading": "Młodzież w całej Unii Europejskiej w 2022 roku",
-  "subheading": "Ogólny odsetek ludności krajów UE w wieku od 15 do 24 lat. Średnia UE-27: 10,5%",
+  "heading": "Młodzież w Europie w 2022 r",
+  "subheading": "Ogólny odsetek ludności krajów europejskich w wieku od 15 do 24 lat. Średnia dla UE-27: 10,5%",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "populacji",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostatu",
+  "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikowanie wysokiej jakości ogólnoeuropejskich statystyk i wskaźników, które umożliwiają porównania między krajami i regionami.",
+  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikowanie wysokiej jakości ogólnoeuropejskich statystyk i wskaźników umożliwiających porównania między krajami i regionami.",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"

@@ -1,12 +1,12 @@
 {
-  "heading": "Les jeunes dans l'Union européenne en 2022",
-  "subheading": "Pourcentage général de la population des pays de l'UE entre 15 et 24 ans. Moyenne UE-27 : 10,5 %",
+  "heading": "Les jeunes à travers l’Europe en 2022",
+  "subheading": "Pourcentage général de la population des pays européens âgée de 15 à 24 ans. Moyenne UE-27 : 10,5%",
   "legend1": "Pas de données disponibles",
   "tooltip1": "de la population",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Eurostat est l'office statistique de l'Union européenne, responsable de la publication de statistiques et d'indicateurs européens de haute qualité permettant des comparaisons entre pays et régions.",
+  "textNote": "Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne permettant des comparaisons entre les pays et les régions.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

@@ -1,13 +1,13 @@
 {
-  "heading": "Mladi v Evropski uniji leta 2022",
-  "subheading": "Splošni odstotek prebivalcev držav EU med 15. in 24. letom. Povprečje EU-27: 10,5 %",
+  "heading": "Mladi po Evropi leta 2022",
+  "subheading": "Splošni odstotek prebivalcev evropskih držav med 15. in 24. letom. Povprečje EU-27: 10,5 %",
   "legend1": "Ni podatkov",
   "tooltip1": "prebivalstva",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
   "textNote": "Eurostat je statistični urad Evropske unije, odgovoren za objavo visokokakovostnih vseevropskih statistik in kazalnikov, ki omogočajo primerjave med državami in regijami.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "Jeugd in de hele Europese Unie in 2022",
-  "subheading": "Algemeen percentage van de bevolking van EU-landen tussen de 15 en 24 jaar. Gemiddeld EU-27: 10,5%",
+  "heading": "Jeugd in heel Europa in 2022",
+  "subheading": "Algemeen percentage van de bevolking van Europese landen tussen 15 en 24 jaar. EU-27 gemiddelde: 10,5%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van de bevolking",
   "textSourceDescription": "Bron",
@@ -9,5 +9,5 @@
   "textNote": "Eurostat is het statistische bureau van de Europese Unie, verantwoordelijk voor het publiceren van hoogwaardige Europese statistieken en indicatoren die vergelijkingen tussen landen en regio's mogelijk maken.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }
