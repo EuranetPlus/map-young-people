@@ -1,12 +1,12 @@
 {
-  "heading": "Juventude em toda a Europa em 2022",
-  "subheading": "Percentagem geral da população dos países europeus com idades compreendidas entre os 15 e os 24 anos. Média da UE-27: 10,5%",
-  "legend1": "Não há dados disponíveis",
+  "heading": "Jovens em toda a Europa em 2022",
+  "subheading": "Percentagem geral da população dos países europeus entre os 15 e os 24 anos. Média da UE-27: 10,5%",
+  "legend1": "Nenhum dado disponível",
   "tooltip1": "da população",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "O Eurostat é o serviço de estatística da União Europeia, responsável pela publicação de estatísticas e indicadores de alta qualidade a nível europeu que permitem comparações entre países e regiões.",
+  "textNote": "O Eurostat é o serviço estatístico da União Europeia, responsável por publicar estatísticas e indicadores de alta qualidade em toda a Europa que permitem comparações entre países e regiões.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

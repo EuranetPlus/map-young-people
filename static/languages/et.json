@@ -1,12 +1,12 @@
 {
   "heading": "Noored üle Euroopa 2022. aastal",
-  "subheading": "Üldine protsent Euroopa riikide elanikkonnast vanuses 15–24 aastat. EL-27 keskmine: 10,5%",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "rahvastikust",
+  "subheading": "Euroopa riikide elanikkonna üldine osakaal vanuses 15–24. EL-27 keskmine: 10,5%.",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "elanikkonnast",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Eurostat on Euroopa Liidu statistikaamet, mis vastutab kvaliteetse üleeuroopalise statistika ja näitajate avaldamise eest, mis võimaldavad riikide ja piirkondade vahelist võrdlust.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Eurostat on Euroopa Liidu statistikaamet, mis avaldab kvaliteetset üleeuroopalist statistikat ja näitajaid, mis võimaldavad riikide ja piirkondade vahelist võrdlust.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

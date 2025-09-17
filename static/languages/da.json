@@ -1,13 +1,13 @@
 {
   "heading": "Unge i hele Europa i 2022",
-  "subheading": "Generel procentdel af befolkningen i europæiske lande mellem 15 og 24 år. Gennemsnit i EU-27: 10,5 %",
-  "legend1": "Ingen tilgængelig data",
+  "subheading": "Generel procentdel af befolkningen i europæiske lande mellem 15 og 24 år. EU-27 gennemsnit: 10,5 %",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "af befolkningen",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, ansvarlig for at offentliggøre europæiske statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "textNoteDescription": "Note",
+  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, der er ansvarlig for at offentliggøre europæisk dækkende statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

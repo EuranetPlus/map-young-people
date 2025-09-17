@@ -1,13 +1,13 @@
 {
-  "heading": "Ungdom över hela Europa 2022",
-  "subheading": "Generell andel av befolkningen i europeiska länder mellan 15 och 24 år. Genomsnitt i EU-27: 10,5 %",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "Ungdomar i hela Europa år 2022",
+  "subheading": "Generell andel av befolkningen i europeiska länder mellan 15 och 24 år. Genomsnitt för EU-27: 10,5 %",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "av befolkningen",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Eurostat är Europeiska unionens statistikkontor, som ansvarar för att publicera högkvalitativ europeisk statistik och indikatorer som möjliggör jämförelser mellan länder och regioner.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Eurostat är Europeiska unionens statistikkontor och ansvarar för att publicera högkvalitativ statistik och indikatorer för hela Europa som möjliggör jämförelser mellan länder och regioner.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

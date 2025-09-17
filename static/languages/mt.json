@@ -1,13 +1,13 @@
 {
   "heading": "Iż-żgħażagħ madwar l-Ewropa fl-2022",
-  "subheading": "Perċentwal ġenerali tal-popolazzjoni tal-pajjiżi ewropej bejn il-15 u l-24 sena. Medja tal-UE-27: 10.5%",
+  "subheading": "Perċentwal ġenerali tal-popolazzjoni tal-pajjiżi Ewropej bejn l-etajiet ta' 15 u 24. Medja tal-UE-27: 10.5%",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tal-popolazzjoni",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "L-Eurostat huwa l-uffiċċju tal-istatistika tal-Unjoni Ewropea, responsabbli għall-pubblikazzjoni ta' statistika u indikaturi ta' kwalità għolja madwar l-Ewropa kollha li jippermettu tqabbil bejn il-pajjiżi u r-reġjuni.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "L-Eurostat huwa l-uffiċċju statistiku tal-Unjoni Ewropea, responsabbli għall-pubblikazzjoni ta’ statistika u indikaturi ta’ kwalità għolja madwar l-Ewropa li jippermettu tqabbil bejn pajjiżi u reġjuni.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

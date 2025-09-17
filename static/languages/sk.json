@@ -1,13 +1,13 @@
 {
-  "heading": "Mládež v Európe v roku 2022",
-  "subheading": "Všeobecné percento populácie európskych krajín vo veku 15 až 24 rokov. Priemer EÚ-27: 10,5 %",
+  "heading": "Mládež v celej Európe v roku 2022",
+  "subheading": "Celkové percento populácie európskych krajín vo veku 15 až 24 rokov. Priemer EÚ-27: 10,5 %",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "obyvateľov",
+  "tooltip1": "populácie",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Eurostat je štatistický úrad Európskej únie zodpovedný za zverejňovanie kvalitných celoeurópskych štatistík a ukazovateľov, ktoré umožňujú porovnávanie medzi krajinami a regiónmi.",
+  "textNote": "Eurostat je štatistický úrad Európskej únie zodpovedný za publikovanie vysokokvalitných celoeurópskych štatistík a ukazovateľov, ktoré umožňujú porovnávanie medzi krajinami a regiónmi.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=sk",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
 }

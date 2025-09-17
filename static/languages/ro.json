@@ -1,13 +1,13 @@
 {
-  "heading": "Tineret din Europa în 2022",
-  "subheading": "Procentul general al populației țărilor europene cu vârste cuprinse între 15 și 24 de ani. Media UE-27: 10,5%",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "a populatiei",
+  "heading": "Tinerii din Europa în 2022",
+  "subheading": "Procentul general al populației țărilor europene cu vârsta cuprinsă între 15 și 24 de ani. Media UE-27: 10,5%",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "din populație",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Eurostat este biroul de statistică al Uniunii Europene, responsabil pentru publicarea de statistici și indicatori de înaltă calitate la nivel european, care permit comparații între țări și regiuni.",
+  "textNoteDescription": "Nota",
+  "textNote": "Eurostat este oficiul statistic al Uniunii Europene, responsabil pentru publicarea de statistici și indicatori de înaltă calitate la nivel european, care permit comparații între țări și regiuni.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=ro",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }
