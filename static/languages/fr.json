@@ -1,13 +1,13 @@
 {
-  "heading": "La jeunesse en Europe en 2022",
-  "subheading": "Pourcentage général de la population des pays européens âgés de 15 à 24 ans. Moyenne de l'UE-27 : 10,5 %",
+  "heading": "Et quel est le pourcentage de jeunes dans l'UE ?",
+  "subheading": "En 2024, la moyenne de l'UE pour le pourcentage global de la population âgée de 15 à 24 ans est de 10,7 % (elle était de 10,5 % en 2020 et de 10,6 % en 2023).",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "de la population",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne qui permettent des comparaisons entre les pays et les régions.",
+  "textNote": "Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne permettant des comparaisons entre pays et régions.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=fr",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

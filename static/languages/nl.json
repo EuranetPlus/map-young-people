@@ -1,13 +1,13 @@
 {
-  "heading": "Jongeren in heel Europa in 2022",
-  "subheading": "Algemeen percentage van de bevolking van Europese landen tussen de 15 en 24 jaar. EU-27 gemiddelde: 10,5%",
+  "heading": "En wat is het percentage jongeren in de EU?",
+  "subheading": "In 2024 bedraagt het gemiddelde percentage van de totale bevolking in de EU tussen de 15 en 24 jaar 10,7% (in 2020 was dit 10,5% en in 2023 10,6%).",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van de bevolking",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurostat is het statistische bureau van de Europese Unie. Het is verantwoordelijk voor het publiceren van hoogwaardige statistieken en indicatoren op Europees niveau, die vergelijkingen tussen landen en regio's mogelijk maken.",
+  "textNote": "Eurostat is het statistisch bureau van de Europese Unie en is verantwoordelijk voor de publicatie van hoogwaardige, Europees brede statistieken en indicatoren die vergelijkingen tussen landen en regio's mogelijk maken.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik hier voor meer informatie"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Jugend in ganz Europa im Jahr 2022",
-  "subheading": "Allgemeiner Prozentsatz der Bevölkerung der europäischen Länder im Alter zwischen 15 und 24 Jahren. EU-27-Durchschnitt: 10,5 %",
+  "heading": "Und wie hoch ist der Anteil junger Menschen in der EU?",
+  "subheading": "Im Jahr 2024 wird der EU-Durchschnitt für den Gesamtanteil der Bevölkerung im Alter von 15 bis 24 Jahren 10,7 % betragen (im Jahr 2020 waren es 10,5 %, im Jahr 2023 10,6 %).",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "der Bevölkerung",
+  "tooltip1": "Bevölkerung",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung qualitativ hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }
