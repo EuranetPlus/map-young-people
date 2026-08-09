@@ -1,13 +1,13 @@
 {
   "heading": "Qual è la percentuale di giovani nell'UE?",
-  "subheading": "Nel 2024, la percentuale media della popolazione dell'UE di età compresa tra 15 e 24 anni era del 10,7% (era del 10,5% nel 2020 e del 10,6% l'anno precedente).",
+  "subheading": "Nel 2025, la percentuale media della popolazione dell'UE di età compresa tra i 15 e i 24 anni era del 10,7% (era del 10,7% nel 2024 e del 10,6% l'anno precedente).",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "della popolazione",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "Eurostat è l'ufficio statistico dell'Unione europea, responsabile della pubblicazione di statistiche e indicatori di alta qualità a livello europeo che consentono confronti tra paesi e regioni.",
-  "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=it",
+  "textDataAccess": "Accedere ai dati",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

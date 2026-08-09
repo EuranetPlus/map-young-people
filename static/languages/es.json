@@ -1,13 +1,13 @@
 {
-  "heading": "¿Cuál es la proporción de jóvenes en la UE?",
-  "subheading": "En 2024, el porcentaje medio de la población de la UE de entre 15 y 24 años era del 10,7% (era del 10,5% en 2020 y del 10,6% el año anterior).",
+  "heading": "¿Cuál es el porcentaje de jóvenes en la UE?",
+  "subheading": "En 2025, el porcentaje medio de la población de la UE de entre 15 y 24 años era del 10,7 % (era del 10,7 % en 2024 y del 10,6 % el año anterior).",
   "legend1": "No hay datos disponibles",
   "tooltip1": "de población",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Eurostat es la oficina estadística de la Unión Europea, responsable de publicar estadísticas e indicadores europeos de alta calidad que permitan realizar comparaciones entre países y regiones.",
+  "textNote": "Eurostat es la oficina estadística de la Unión Europea, responsable de publicar estadísticas e indicadores de alta calidad a nivel europeo que permiten realizar comparaciones entre países y regiones.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=es",
-  "textCountryClick": "Haga clic para más información"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en",
+  "textCountryClick": "Haz clic para obtener más información."
 }
